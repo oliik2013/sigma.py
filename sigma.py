@@ -6,3 +6,6 @@ def kanapka():
 
 def babcia():
     print("tylko nie wylej na komputer (:")
+
+def jakmasznaimie():
+    input("Jak masz na imie?")
