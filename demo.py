@@ -2,4 +2,4 @@ import sigma
 
 imie = sigma.jakmasznaimie()
 
-print.(imie)
+print(imie)
