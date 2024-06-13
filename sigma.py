@@ -8,4 +8,4 @@ def babcia():
     print("tylko nie wylej na komputer (:")
 
 def jakmasznaimie():
-    print(input("Jak masz na imie?"))
+    input("Jak masz na imie?")
