@@ -1,5 +1,5 @@
 import sigma
 
-imie = sigma.jakmasznaimie()
+sigma.jakmasznaimie()
 
 print(imie)
