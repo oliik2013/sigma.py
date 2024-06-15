@@ -1,8 +1,11 @@
 def sigma():
-    print("SIGMA MALE")
+    return("SIGMA MALE")
 
 def kanapka():
-    print("kanapka z szynką i serem")
+    return("kanapka z szynką i serem")
 
 def babcia():
-    print("tylko nie wylej na komputer (:")
+    return("tylko nie wylej na komputer (:")
+
+def jakmasznaimie():
+    return(input("Jak masz na imie?"))
