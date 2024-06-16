@@ -12,5 +12,8 @@ print("Chesz picie? ", sigma.babcia())
 sleep(2)
 
 print("I może do tego pyszna ", sigma.kanapka(), "?")
+sleep(2)
+
+print("I... ", sigma.banan())
 sleep(5)
 exit()

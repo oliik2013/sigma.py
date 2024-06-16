@@ -9,3 +9,6 @@ def babcia():
 
 def jakmasznaimie():
     return(input("Jak masz na imie?"))
+
+def banan():
+    return("BANANANANA!")
