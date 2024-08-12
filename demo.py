@@ -15,5 +15,8 @@ print("I może do tego pyszna ", sigma.kanapka(), "?")
 sleep(2)
 
 print("I... ", sigma.banan())
+sleep(2)
+
+print("O zobacz to ... ", sigma.rickroll())
 sleep(5)
 exit()

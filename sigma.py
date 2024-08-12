@@ -12,3 +12,6 @@ def jakmasznaimie():
 
 def banan():
     return("BANANANANA!")
+
+def rickroll():
+    return("Tumtumtumtum tra la la la la tra la la a a tra")
